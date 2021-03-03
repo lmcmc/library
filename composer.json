@@ -1,0 +1,7 @@
+{
+    "require": {
+        "gregwar/captcha": "1.*",
+        "catfan/Medoo": "^1.7",
+        "firebase/php-jwt": "^5.2"
+    }
+}
